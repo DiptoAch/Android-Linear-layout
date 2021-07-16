@@ -1,2 +1,0 @@
-# Android-Linear-layout
-Ashok
